@@ -1,13 +1,13 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)]
 <h1 align="center">Hi 👋, I'm Keith Joseph</h1>
 <h3 align="center">An enthusiastic Data Science and Machine Learning Developer</h3>
-<img align="right" alt="Coding" width="400" src=“https://miro.medium.com/v2/format:jpg/resize:fill:80:56/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif”>
+<img align="right" alt="Coding" width="400" src=https://miro.medium.com/v2/format:jpg/resize:fill:80:56/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keithjosephhhh&label=Profile%20views&color=0e75b6&style=flat" alt="keithjosephhhh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/keithjosephhhh" target="blank"><img src="https://img.shields.io/twitter/follow/keithjosephhhh?logo=twitter&style=for-the-badge" alt="keithjosephhhh" /></a> </p>
 
-- 🔭 I’m currently working on **Learning Data Science and Machine Learning**
+- 🔭 I’m currently working on **Data Science & Machine Learning**
 
 - 🌱 I’m currently learning **Scikit-learn, OpenCV and Tensorflow**
 
