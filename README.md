@@ -1,4 +1,4 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)]
+![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)
 <h1 align="center">Hi 👋, I'm Keith Joseph</h1>
 <h3 align="center">An enthusiastic Data Science and Machine Learning Developer</h3>
 <img align="right" alt="Coding" width="400" src=https://miro.medium.com/v2/format:jpg/resize:fill:80:56/1*1Xm4NjD-yZ0NF8rOhw1dsw.gif>
